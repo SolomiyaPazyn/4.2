@@ -1,0 +1,6 @@
+﻿  lab 4.2.cpp
+D:\programming\Lab 4.2\lab 4.2\lab 4.2.cpp(11,6): error C2601: 'main': local function definitions are illegal
+      D:\programming\Lab 4.2\lab 4.2\lab 4.2.cpp(8,22):
+      this line contains a '{' which has not yet been matched
+  
+D:\programming\Lab 4.2\lab 4.2\lab 4.2.cpp(8,22): error C1075: '{': no matching token found
